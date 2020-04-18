@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vladgrygola.github.io/encryptrsa",
-  "name": "encryptrsa",
+  "homepage": "https://vladgrygola.github.io/encrypt-rsa",
+  "name": "encrypt-rsa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
