@@ -15,6 +15,15 @@
     width: 100vw;
     text-align: center;
     margin: 0.5em 0;
+    textarea {
+      margin-left: 2vw;
+      height: 100%;
+      width: 48vw;
+      font-size: 0.5em;
+      background-color: #1a1a1a;
+      border: none;
+      color: white;
+    }
     span {
       margin-right: 1vw;
       width: 48vw;
@@ -27,6 +36,32 @@
       background-color: #1a1a1a;
       border: none;
       color: white;
+    }
+  }
+
+  .input-small {
+    display: flex;
+    width: 100vw;
+    text-align: center;
+    margin: 0.5em 0;
+    span {
+      margin-right: 1vw;
+      width: 48vw;
+      text-align: right;
+    }
+    textarea {
+      margin-left: 2vw;
+      width: 48vw;
+      font-size: 0.5em;
+      background-color: #1a1a1a;
+      border: none;
+      color: white;
+    }
+    .private {
+      height: 11em;
+    }
+    .public {
+      height: 5em;
     }
   }
 

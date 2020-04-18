@@ -1,6 +1,6 @@
 {
-  "homepage": "https://vladgrygola.github.io/encryptcaesar",
-  "name": "encryptcaesar",
+  "homepage": "https://vladgrygola.github.io/encryptrsa",
+  "name": "encryptrsa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "gh-pages": "^2.2.0",
+    "node-rsa": "^1.0.8",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
